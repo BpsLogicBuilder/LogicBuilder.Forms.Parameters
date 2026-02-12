@@ -24,3 +24,4 @@ This library acts as a contract between:
 2. **.NET Forms Applications** - where buttons representing connectors are implemented at runtime
 
 ## Installation
+`dotnet add package LogicBuilder.Forms.Parameters`
