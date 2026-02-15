@@ -1,5 +1,10 @@
 # LogicBuilder.Forms.Parameters
 
+[![Build Status](https://github.com/BpsLogicBuilder/LogicBuilder.Forms.Parameters/actions/workflows/ci.yml/badge.svg)](https://github.com/BpsLogicBuilder/LogicBuilder.Forms.Parameters/actions/workflows/ci.yml)
+[![CodeQL](https://github.com/BpsLogicBuilder/LogicBuilder.Forms.Parameters/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/BpsLogicBuilder/LogicBuilder.Forms.Parameters/actions/workflows/github-code-scanning/codeql)
+[![codecov](https://codecov.io/gh/BpsLogicBuilder/LogicBuilder.Forms.Parameters/graph/badge.svg?token=U8W913QAKI)](https://codecov.io/gh/BpsLogicBuilder/LogicBuilder.Forms.Parameters)
+[![NuGet](https://img.shields.io/nuget/v/LogicBuilder.Forms.Parameters.svg)](https://www.nuget.org/packages/LogicBuilder.Forms.Parameters)
+
 A library that defines the `ConnectorParameters` class, which serves as a contract between [LogicBuilder application](https://github.com/BpsLogicBuilder/LogicBuilder) and .NET Forms applications.
 
 ## Purpose
