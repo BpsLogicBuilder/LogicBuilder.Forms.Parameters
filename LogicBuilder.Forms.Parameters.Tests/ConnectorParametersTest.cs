@@ -52,7 +52,7 @@ namespace LogicBuilder.Forms.Parameters.Tests
         public void ParameterizedConstructor_AcceptsNullStrings()
         {
             // Arrange & Act
-            var parameters = new ConnectorParameters(1, null, null, null);
+            var parameters = new ConnectorParameters(1, null!, null!, null!);
 
             // Assert
             Assert.Equal(1, parameters.Id);
