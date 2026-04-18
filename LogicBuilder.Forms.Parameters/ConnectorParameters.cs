@@ -15,8 +15,8 @@
         }
 
         public int Id { get; set; }
-        public string ShortString { get; set; }
-        public string LongString { get; set; }
-        public object ConnectorData { get; set; }
+        public string? ShortString { get; set; }
+        public string? LongString { get; set; }
+        public object? ConnectorData { get; set; }
     }
 }

@@ -6,6 +6,7 @@
     <PackageId>LogicBuilder.Forms.Parameters</PackageId>
 		<Authors>BlaiseD</Authors>
 		<LangVersion>latest</LangVersion>
+		<Nullable>enable</Nullable>
 		<WarningsAsErrors>true</WarningsAsErrors>
 		<PublishRepositoryUrl>true</PublishRepositoryUrl>
 		<IncludeSymbols>true</IncludeSymbols>
