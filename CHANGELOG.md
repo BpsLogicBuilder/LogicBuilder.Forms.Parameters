@@ -1,3 +1,4 @@
+* 2026-06-05 - AB#169: Make arguments for ConnectorParameters compatible with its properties.
 * 2026-06-05 - AB#169: Unit tests for parameter classes
 * 2026-06-05 - AB#168: Add new expression parameter classes and update dependencies.
 * 2026-04-18 - AB#48: Fixing SonarCloud recommendations
