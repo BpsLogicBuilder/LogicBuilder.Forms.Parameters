@@ -14,7 +14,7 @@
 		<EmbedUntrackedSources>true</EmbedUntrackedSources>
     <Description>The ConnectorParameters class holds information about the Connector Shape on the flow diagram including additional metadata which typically carries information about a UI button (represented by the connector) and its behaviors.</Description>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
-		<PackageReleaseNotes>Refactoring to accelerate DevOps.</PackageReleaseNotes>
+		<PackageReleaseNotes>Moving expression parameter classes to a common library.</PackageReleaseNotes>
     <PackageTags>logic-builder rules connector</PackageTags>
     <Copyright>Copyright © BPS 2017</Copyright>
     <RepositoryUrl>https://github.com/BpsLogicBuilder/LogicBuilder.Forms.Parameters</RepositoryUrl>
