@@ -1,3 +1,4 @@
+* 2026-06-05 - AB#168: Add new expression parameter classes and update dependencies.
 * 2026-04-18 - AB#48: Fixing SonarCloud recommendations
 * 2026-02-15 - AB#40 Adding status badges (#3)
 * 2026-02-12 - AB#30 Minor fix for ReadMe.md. (#2)
