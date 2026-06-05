@@ -1,0 +1,23 @@
+using LogicBuilder.Forms.Parameters.Expressions;
+
+namespace LogicBuilder.Forms.Parameters.Tests.Expressions
+{
+    public class OrBinaryOperatorParametersTest
+    {
+        [Fact]
+        public void Constructor_SetsAllProperties()
+        {
+            // Arrange
+            var expectedLeft = new ConstantOperatorParameters(true);
+            var expectedRight = new ConstantOperatorParameters(false);
+
+            // Act
+            var parameters = new OrBinaryOperatorParameters(expectedLeft, expectedRight);
+
+            // Assert
+            Assert.NotNull(parameters);
+            Assert.Same(expectedLeft, parameters.Left);
+            Assert.Same(expectedRight, parameters.Right);
+        }
+    }
+}
