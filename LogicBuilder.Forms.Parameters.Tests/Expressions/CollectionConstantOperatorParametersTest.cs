@@ -10,7 +10,7 @@ namespace LogicBuilder.Forms.Parameters.Tests.Expressions
         public void Constructor_SetsAllProperties()
         {
             // Arrange
-            var expectedConstantValues = new List<object> { 1, 2, 3 };
+            var expectedConstantValues = new List<object?> { 1, 2, 3 };
             var expectedElementType = typeof(int);
 
             // Act
@@ -26,9 +26,9 @@ namespace LogicBuilder.Forms.Parameters.Tests.Expressions
         public void ConstantValues_CanBeSetAndRetrieved()
         {
             // Arrange
-            var initialValues = new List<object> { 1, 2, 3 };
+            var initialValues = new List<object?> { 1, 2, 3 };
             var parameters = new CollectionConstantOperatorParameters(initialValues, typeof(int));
-            var newValues = new List<object> { 4, 5, 6 };
+            var newValues = new List<object?> { 4, 5, 6 };
 
             // Act
             parameters.ConstantValues = newValues;
