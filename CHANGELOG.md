@@ -1,3 +1,4 @@
+* 2026-06-09 - AB#166: Making constant parameter arguments nullable.
 * 2026-06-05 - AB#170: Updating package release notes.
 * 2026-06-05 - AB#169: Make arguments for ConnectorParameters compatible with its properties.
 * 2026-06-05 - AB#169: Unit tests for parameter classes
