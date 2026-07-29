@@ -1,3 +1,4 @@
+* 2026-07-29 - AB#205: Add dummy constructor to make configuration easier.
 * 2026-06-09 - AB#166: Updating the release notes.
 * 2026-06-09 - AB#166: Making constant parameter arguments nullable.
 * 2026-06-05 - AB#170: Updating package release notes.
