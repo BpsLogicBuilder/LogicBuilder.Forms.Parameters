@@ -1,7 +1,4 @@
 ﻿using LogicBuilder.Forms.Parameters.Expressions;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace LogicBuilder.Forms.Parameters
 {
