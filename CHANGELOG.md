@@ -1,3 +1,4 @@
+* 2026-07-29 - AB#170: Updating package release notes.
 * 2026-07-29 - AB#205: Remove unused using statements
 * 2026-07-29 - AB#205: Add dummy constructor to make configuration easier.
 * 2026-06-09 - AB#166: Updating the release notes.
